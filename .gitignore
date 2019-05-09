@@ -34,3 +34,21 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# Code Editors
+/.idea
+/.vscode
+/*.csproj
+/*.sln
+*.swp
+*.vcxproj.user
+/export/
+/Logs/
+/Recordings/
